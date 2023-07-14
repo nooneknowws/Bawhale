@@ -44,6 +44,6 @@ a opção de adição pode ser encontrada ao clicar em "cadastrar novo produto"
 para adicionar um produto é necessário informar nome, preço, upar uma imagem pra esse produto e adicionar uma breve descrição sobre ele.
 
 
-## Autor
-[Thalyson Bruck Andreatta](https://github.com/nooneknowws)
+## Autores
+Thalyson [GitHub](https://github.com/nooneknowws)
 
