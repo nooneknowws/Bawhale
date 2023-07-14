@@ -44,12 +44,6 @@ a opção de adição pode ser encontrada ao clicar em "cadastrar novo produto"
 para adicionar um produto é necessário informar nome, preço, upar uma imagem pra esse produto e adicionar uma breve descrição sobre ele.
 
 
-## Autores do site
-Thalyson Bruck Andreatta - GRR20206126
-
-Giulia Mariane Brancalhão - GRR20223816
-
-Eduardo Henrique Alberti Costa - GRR20224360
-
-Christian Kennedy Daniel Martins - GRR20221099
+## Autor
+[Thalyson Bruck Andreatta](https://github.com/nooneknowws)
 
