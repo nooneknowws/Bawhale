@@ -1,0 +1,74 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #dceaf9;
+}
+
+img{
+    max-width: 500px;
+    max-height: 500px;
+    box-align: center;
+}
+
+.card {
+    content: "";
+    clear: both;
+    display: table;
+    background-color: #8ca8d4;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 2px;
+    border-radius: 1em;
+    width:580px;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.text-center{
+
+    margin-top: 1rem;
+    margin-bottom: 50px;
+    text-align: center;
+    color:#dceaf9
+}
+
+
+#botão1 {
+    background-color: #9088c0;
+    margin-top: 60px;
+    width: 32%;
+    height: 40px;
+    border:2px;
+    border-radius: 1em;
+    color:#e5e5e9;
+   
+  }
+  
+  #botão2 {
+    background-color: #e5e5e9;
+    width: 32%;
+    height: 40px;
+    border:2px;
+    border-radius: 1em;
+    color: #9088c0;
+  
+  }
+
+  .submit {
+    background-color: #9088c0;
+    margin-top: 50px;
+    width: 32%;
+    height: 40px;
+    border:4px;
+    border-radius: 1em;
+    color:#e5e5e9;
+   
+  }

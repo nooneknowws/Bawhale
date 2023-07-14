@@ -1,0 +1,91 @@
+:root {
+  --azulc: #b1d0f0;
+  --roxoc: #9088c0;
+  --cinzac: #e5e5e9;
+}
+
+body {
+  background-color: #e5dfff !important;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;
+}
+
+.card{
+  border: none !important;
+  background-color: #7a98ac !important;
+  color: white !important;
+  border-radius: 1.5rem !important;
+}
+.cart{
+  content: "";
+  clear: both;
+  display: table;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: #194c6e;
+  width: 20%;
+  height: 100%;
+}
+
+.content{
+    margin-right: 20%;
+}
+
+.add_btn {
+  /*add no carrinho */
+  padding: 0.67rem !important;
+  width: 180px !important;
+  background-color: #194c6e !important;
+  border:2px !important;
+  border-radius: 1rem !important;
+  color:#e1e1e1 !important;
+
+}
+
+.view_btn {
+  /*vai pra pagina view*/
+  padding: 0.67rem !important;
+  background-color: var(--cinzac) !important;
+  width: 180px !important;
+  border:5px !important;
+  border-radius: 1em !important;
+  color: var(--roxoc) !important;
+
+}
+
+.paga {
+  background-color: var(--roxoc);
+  border: 2px;
+  border-radius: 1em;
+  color: #e1e1e1;
+}
+
+.dele {
+  background-color: var(--roxoc) !important;
+  height: 100%;
+  color: #e1e1e1;
+}
+
+#nho{
+align-items: center;
+}
+
+#image{
+  border-top-right-radius: 1em !important;
+  border-top-left-radius: 1em !important;
+}
+
+.btn-fake {
+    background:none;
+    border:none;
+    margin:0;
+    padding:0;
+    cursor: pointer;
+    font-size: 12px !important;
+    font-weight: 1000 !important;
+    color: #fff !important;
+}
+
+td {
+   padding: 0.125rem !important;
+}
